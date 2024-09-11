@@ -12,11 +12,11 @@ create a pull request.
 
 | Name / Alternate | Organization |
 | ---------------- | ------------ |
-| Jyh-Cheng Chen (Chair) | NYCU |
-| Chien Chen (Vice-Chair) | NYCU |
-| Fu-Chun Lin | NYCU |
-| Chi-Yu LI | NYCU |
-| Yi Chen | NYCU |
+| Jyh-Cheng Chen (Chair) | National Yang Ming Chiao Tung University (NYCU) |
+| Chien Chen (Vice-Chair) | National Yang Ming Chiao Tung University (NYCU) |
+| Fu-Chun Lin | National Yang Ming Chiao Tung University (NYCU) |
+| Chi-Yu LI | National Yang Ming Chiao Tung University (NYCU) |
+| Yi Chen | National Yang Ming Chiao Tung University (NYCU) |
 | Tim Liu | Saviah Technologies |
 | Fu-Lian Weng | Saviah Technologies |
 | Brian Chen | Saviah Technologies |
@@ -25,24 +25,24 @@ create a pull request.
 
 | Contributor | GitHub User | Company | Committer |
 | ----------- | ----------- | ------- | --------- |
-| Yi Chen | [ianchen0119](https://github.com/ianchen0119) | NYCU | Y |
-| Tsung-Fang Chen | [andy89923](https://github.com/andy89923) | NYCU | Y |
-| Lin, Yang-Zhe | [lyz508](https://github.com/lyz508) | NYCU | Y |
+| Yi Chen | [ianchen0119](https://github.com/ianchen0119) | National Yang Ming Chiao Tung University (NYCU) | Y |
+| Tsung-Fang Chen | [andy89923](https://github.com/andy89923) | National Yang Ming Chiao Tung University (NYCU) | Y |
+| Lin, Yang-Zhe | [lyz508](https://github.com/lyz508) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Tim Liu | [tim-ywliu](https://github.com/tim-ywliu) | Saviah Technologies | Y |
 | Fu-Lian Weng | [turtle11311](https://github.com/turtle11311) | Saviah Technologies | Y |
 | Brian Chen | [brianchennn](https://github.com/brianchennn) | Saviah Technologies | Y |
 | Ayoub Bousselmi | [abousselmi](https://github.com/abousselmi) | Orange | Y |
-| Yu-Chun Chien | [yccodr](https://github.com/yccodr) | NYCU | N |
-| Chun-Ting Lin | [tim1207](https://github.com/tim1207) | NYCU | N |
-| Han-Hung Chen | [HanHongChen](https://github.com/HanHongChen) | NYCU | N |
-| LEE, KUN-LIN | [KunLee76](https://github.com/KunLee76) | NYCU | N |
-| WU, MING-HSIEN | [ming-hsien](https://github.com/ming-hsien) | NYCU | N |
-| Cai, Mu-Hsuan | [ian60509](https://github.com/ian60509) | NYCU | N |
-| Wang, Yu-Chun | [blackcat-118](https://github.com/blackcat-118) | NYCU | N |
-| LIN, PIN-FAN | [pf-lin](https://github.com/pf-lin) | NYCU | N |
-| Shih, Tung-Hao | [donald1218](https://github.com/donald1218) | NYCU | N |
-| Wu, Cheng-Hsuan | [a3828162](https://github.com/a3828162) | NYCU | N |
-| Chou, Ting-Yuan | [TYuan0816](https://github.com/TYuan0816) | NYCU | N |
+| Yu-Chun Chien | [yccodr](https://github.com/yccodr) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Chun-Ting Lin | [tim1207](https://github.com/tim1207) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Han-Hung Chen | [HanHongChen](https://github.com/HanHongChen) | National Yang Ming Chiao Tung University (NYCU) | N |
+| LEE, KUN-LIN | [KunLee76](https://github.com/KunLee76) | National Yang Ming Chiao Tung University (NYCU) | N |
+| WU, MING-HSIEN | [ming-hsien](https://github.com/ming-hsien) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Cai, Mu-Hsuan | [ian60509](https://github.com/ian60509) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Wang, Yu-Chun | [blackcat-118](https://github.com/blackcat-118) | National Yang Ming Chiao Tung University (NYCU) | N |
+| LIN, PIN-FAN | [pf-lin](https://github.com/pf-lin) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Shih, Tung-Hao | [donald1218](https://github.com/donald1218) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Wu, Cheng-Hsuan | [a3828162](https://github.com/a3828162) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Chou, Ting-Yuan | [TYuan0816](https://github.com/TYuan0816) | National Yang Ming Chiao Tung University (NYCU) | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
