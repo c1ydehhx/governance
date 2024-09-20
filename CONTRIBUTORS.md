@@ -43,6 +43,16 @@ create a pull request.
 | Shih, Tung-Hao | [donald1218](https://github.com/donald1218) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Wu, Cheng-Hsuan | [a3828162](https://github.com/a3828162) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Chou, Ting-Yuan | [TYuan0816](https://github.com/TYuan0816) | National Yang Ming Chiao Tung University (NYCU) | N |
+| LIU, YOU-SHENG | [YouShengLiu](https://github.com/YouShengLiu) | National Yang Ming Chiao Tung University (NYCU) | N |
+| XU, BO-SHENG | [BENHSU0723](https://github.com/BENHSU0723) | National Yang Ming Chiao Tung University (NYCU) | N |
+| ZHANG, JIAN-YAO | [JiMMyMatrix](https://github.com/JiMMyMatrix) | National Yang Ming Chiao Tung University (NYCU) | N |
+| ZENG, YA-SHI | [yashihh](https://github.com/yashihh) | National Yang Ming Chiao Tung University (NYCU) | N |
+| ZHANG, ZHE-RUI | [Jerry0666](https://github.com/Jerry0666) | National Yang Ming Chiao Tung University (NYCU) | N |
+| XIE, MENG-TING | [danielh1204](https://github.com/danielh1204) | National Yang Ming Chiao Tung University (NYCU) | N |
+| LAI, WEI-CHENG | [wilson30139](https://github.com/wilson30139) | National Yang Ming Chiao Tung University (NYCU) | N |
+| LEE, HSIN-YING | [iamelisahi](https://github.com/iamelisahi) | National Yang Ming Chiao Tung University (NYCU) | N |
+| LIN, PO-YI | [linpoyi](https://github.com/linpoyi) | National Yang Ming Chiao Tung University (NYCU) | N |
+| ZE TIAN, BO-JIU | [Leon777-coder](https://github.com/Leon777-coder) | National Yang Ming Chiao Tung University (NYCU) | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
