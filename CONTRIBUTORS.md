@@ -50,8 +50,7 @@ create a pull request.
 | ZHANG, ZHE-RUI | [Jerry0666](https://github.com/Jerry0666) | National Yang Ming Chiao Tung University (NYCU) | N |
 | XIE, MENG-TING | [danielh1204](https://github.com/danielh1204) | National Yang Ming Chiao Tung University (NYCU) | N |
 | LAI, WEI-CHENG | [wilson30139](https://github.com/wilson30139) | National Yang Ming Chiao Tung University (NYCU) | N |
-| LI, XIN-YING | [iamelisahi](https://github.com/iamelisahi) | National Yang Ming Chiao Tung University (NYCU) | N |
-| CHEN, YU-SHENG | [brianchennn](https://github.com/brianchennn) | National Yang Ming Chiao Tung University (NYCU) | N |
+| LEE, HSIN-YING | [iamelisahi](https://github.com/iamelisahi) | National Yang Ming Chiao Tung University (NYCU) | N |
 | LIN, PO-YI | [linpoyi](https://github.com/linpoyi) | National Yang Ming Chiao Tung University (NYCU) | N |
 | ZE TIAN, BO-JIU | [Leon777-coder](https://github.com/Leon777-coder) | National Yang Ming Chiao Tung University (NYCU) | N |
 
