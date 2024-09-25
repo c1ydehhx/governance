@@ -53,6 +53,8 @@ create a pull request.
 | LEE, HSIN-YING | [iamelisahi](https://github.com/iamelisahi) | National Yang Ming Chiao Tung University (NYCU) | N |
 | LIN, PO-YI | [linpoyi](https://github.com/linpoyi) | National Yang Ming Chiao Tung University (NYCU) | N |
 | ZE TIAN, BO-JIU | [Leon777-coder](https://github.com/Leon777-coder) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Laura Spang | [LaumiH](https://github.com/LaumiH) | TU Darmstadt | N |
+| Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
