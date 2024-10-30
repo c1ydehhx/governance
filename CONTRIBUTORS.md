@@ -55,6 +55,7 @@ create a pull request.
 | ZE TIAN, BO-JIU | [Leon777-coder](https://github.com/Leon777-coder) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Laura Spang | [LaumiH](https://github.com/LaumiH) | TU Darmstadt | N |
 | Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
+| Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) |  | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
