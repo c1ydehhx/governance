@@ -26,7 +26,7 @@ create a pull request.
 | Contributor | GitHub User | Company | Committer |
 | ----------- | ----------- | ------- | --------- |
 | Yi Chen | [ianchen0119](https://github.com/ianchen0119) | National Yang Ming Chiao Tung University (NYCU) | Y |
-| Tsung-Fang Chen | [andy89923](https://github.com/andy89923) | National Yang Ming Chiao Tung University (NYCU) | Y |
+| Chen, Tsung-Fang | [andy89923](https://github.com/andy89923) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Lin, Yang-Zhe | [lyz508](https://github.com/lyz508) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Tim Liu | [tim-ywliu](https://github.com/tim-ywliu) | Saviah Technologies | Y |
 | Fu-Lian Weng | [turtle11311](https://github.com/turtle11311) | Saviah Technologies | Y |
@@ -55,6 +55,7 @@ create a pull request.
 | ZE TIAN, BO-JIU | [Leon777-coder](https://github.com/Leon777-coder) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Laura Spang | [LaumiH](https://github.com/LaumiH) | TU Darmstadt | N |
 | Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
+| Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) | Federal University of Juiz de Fora (UFJF) | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
