@@ -56,6 +56,7 @@ create a pull request.
 | Laura Spang | [LaumiH](https://github.com/LaumiH) | TU Darmstadt | N |
 | Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
 | Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) | Federal University of Juiz de Fora (UFJF) | N |
+| SAILESH VVR | [saileshvvr](https://github.com/saileshvvr) | HCL Technologies | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
