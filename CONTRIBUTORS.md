@@ -28,6 +28,7 @@ create a pull request.
 | Yi Chen | [ianchen0119](https://github.com/ianchen0119) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Chen, Tsung-Fang | [andy89923](https://github.com/andy89923) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Lin, Yang-Zhe | [lyz508](https://github.com/lyz508) | National Yang Ming Chiao Tung University (NYCU) | Y |
+| Feng Tu | [Alonza0314](https://github.com/Alonza0314) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Tim Liu | [tim-ywliu](https://github.com/tim-ywliu) | Saviah Technologies | Y |
 | Fu-Lian Weng | [turtle11311](https://github.com/turtle11311) | Saviah Technologies | Y |
 | Brian Chen | [brianchennn](https://github.com/brianchennn) | Saviah Technologies | Y |
@@ -53,6 +54,11 @@ create a pull request.
 | LEE, HSIN-YING | [iamelisahi](https://github.com/iamelisahi) | National Yang Ming Chiao Tung University (NYCU) | N |
 | LIN, PO-YI | [linpoyi](https://github.com/linpoyi) | National Yang Ming Chiao Tung University (NYCU) | N |
 | ZE TIAN, BO-JIU | [Leon777-coder](https://github.com/Leon777-coder) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Wu, Guo-Cheng | [leowu0407](https://github.com/leowu0407) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Tsao, Yung-Hsuan | [reki9185](https://github.com/reki9185) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Kuan, Liu-Hsiang | [senselessDog](https://github.com/senselessDog) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Ting, Fang-Kai | [qawl987](https://github.com/qawl987) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Lin, Cheng-Wei | [williamlin0518](https://github.com/williamlin0518) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Laura Spang | [LaumiH](https://github.com/LaumiH) | TU Darmstadt | N |
 | Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
 | Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) | Federal University of Juiz de Fora (UFJF) | N |
