@@ -63,6 +63,7 @@ create a pull request.
 | Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
 | Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) | Federal University of Juiz de Fora (UFJF) | N |
 | SAILESH VVR | [saileshvvr](https://github.com/saileshvvr) | HCL Technologies | N |
+| HO, TSUNG-HAN | [dalaoqi](https://github.com/dalaoqi) | iKala | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
