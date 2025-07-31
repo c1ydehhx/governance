@@ -64,6 +64,7 @@ create a pull request.
 | Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) | Federal University of Juiz de Fora (UFJF) | N |
 | SAILESH VVR | [saileshvvr](https://github.com/saileshvvr) | HCL Technologies | N |
 | HO, TSUNG-HAN | [dalaoqi](https://github.com/dalaoqi) | iKala | N |
+| Ouastani, Samy | [Niahh](https://github.com/Niahh) | Free Mobile | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
