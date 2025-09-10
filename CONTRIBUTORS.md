@@ -66,6 +66,9 @@ create a pull request.
 | HO, TSUNG-HAN | [dalaoqi](https://github.com/dalaoqi) | iKala | N |
 | Ouastani, Samy | [Niahh](https://github.com/Niahh) | Free Mobile | N |
 | Domenico Verde | [DomenicoVerde](https://github.com/DomenicoVerde) | RomARS s.r.l. | N |
+| K N Venkata Sai | [Ic-venkat](https://github.com/Ic-venkat) | -- | N |
+| S.Uchino | [utchy-su](https://github.com/utchy-su) | SORACOM | N |
+
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
