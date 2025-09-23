@@ -68,6 +68,7 @@ create a pull request.
 | Domenico Verde | [DomenicoVerde](https://github.com/DomenicoVerde) | RomARS s.r.l. | N |
 | K N Venkata Sai | [Ic-venkat](https://github.com/Ic-venkat) | -- | N |
 | S.Uchino | [utchy-su](https://github.com/utchy-su) | SORACOM | N |
+| Huang, Han-Xuan | [c1ydehhx](https://github.com/c1ydehhx) | National Yang Ming Chiao Tung University (NYCU) | N |
 
 
 > NOTE:
